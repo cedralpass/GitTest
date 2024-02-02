@@ -8,6 +8,8 @@ git checkout branch_name -- switches to branch
 
 git add file_name  -- adds branch
 
+git commit -a -m 'adding simple git cheatsheet'  -- commits the current files to the branch
+
 git push origin master / main -- pushes to origin
 
 git push origin branch_name -- pushes new branch_name
