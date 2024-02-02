@@ -1,0 +1,8 @@
+Model Name:	MacBook Pro
+Model Identifier:	MacBookPro18,4
+Model Number:	Z15H00109LL/A
+Chip:	Apple M1 Max
+Total Number of Cores:	10 (8 performance and 2 efficiency)
+Memory:	64 GB
+System Firmware Version:	10151.81.1
+OS Loader Version:	10151.81.1
