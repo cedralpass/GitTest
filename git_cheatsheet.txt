@@ -13,3 +13,7 @@ git commit -a -m 'adding simple git cheatsheet'  -- commits the current files to
 git push origin master / main -- pushes to origin
 
 git push origin branch_name -- pushes new branch_name
+
+git checkout master -- checkout the master / main branch
+
+git merge branch_name -- merges the branch_name into current active branch
