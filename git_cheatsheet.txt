@@ -1,0 +1,13 @@
+git status -- checks status of git
+
+git branch  -- checks branches and current working branch
+
+git branch branch_name -- creates branch
+
+git checkout branch_name -- switches to branch
+
+git add file_name  -- adds branch
+
+git push origin master / main -- pushes to origin
+
+git push origin branch_name -- pushes new branch_name
